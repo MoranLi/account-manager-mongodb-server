@@ -1,0 +1,23 @@
+{
+  "name": "account-manager-mongodb-server",
+  "version": "1.0.0",
+  "description": "provide RESTAPI for mongodb",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MoranLi/account-manager-mongodb-server.git"
+  },
+  "author": "Yukun Li",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MoranLi/account-manager-mongodb-server/issues"
+  },
+  "homepage": "https://github.com/MoranLi/account-manager-mongodb-server#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongodb": "^3.4.1"
+  }
+}
